@@ -1,0 +1,13 @@
+For the session, we will be using following tools.
+1.	Node and npm. Please download and install Node from https://nodejs.org/en/download/prebuilt-installer
+2.	Visual Studio Code. Please download from here https://code.visualstudio.com/download (or any other code editor of your choice)
+3.	Postman (either Web or Desktop version). Please download from here the desktop version https://www.postman.com/downloads/
+4.	Download or clone the base project from GitHub
+
+Lab code setup:
+1.	Download or clone the base project on your system.
+2.	Run command "npm install" on the root of the sample project (where 'package.json' file is placed)
+3.	After "npm install", make sure all dependencies are installed (no error on console)
+4.	On project root folder, run command "node index.js" (where 'index.js' file is placed). This will start the server application.
+5.	You will see this message in console "Server ready at: http://localhost:4000/"
+6.	Now everything is up and running.

@@ -1,3 +1,5 @@
+Open Postman or navigate to localhost:4000 on browser and add the following in to the request . 
+
 # Example to get all the games 
 {
     games{
